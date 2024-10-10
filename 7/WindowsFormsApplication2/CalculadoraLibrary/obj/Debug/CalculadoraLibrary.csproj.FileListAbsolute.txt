@@ -1,0 +1,5 @@
+c:\users\hp\onedrive\documentos\visual studio 2012\Projects\WindowsFormsApplication2\CalculadoraLibrary\bin\Debug\CalculadoraLibrary.dll
+c:\users\hp\onedrive\documentos\visual studio 2012\Projects\WindowsFormsApplication2\CalculadoraLibrary\bin\Debug\CalculadoraLibrary.pdb
+c:\users\hp\onedrive\documentos\visual studio 2012\Projects\WindowsFormsApplication2\CalculadoraLibrary\obj\Debug\CalculadoraLibrary.csprojResolveAssemblyReference.cache
+c:\users\hp\onedrive\documentos\visual studio 2012\Projects\WindowsFormsApplication2\CalculadoraLibrary\obj\Debug\CalculadoraLibrary.dll
+c:\users\hp\onedrive\documentos\visual studio 2012\Projects\WindowsFormsApplication2\CalculadoraLibrary\obj\Debug\CalculadoraLibrary.pdb
